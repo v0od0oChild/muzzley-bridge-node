@@ -36,8 +36,8 @@ var accountData = {
 var bridgeComponents = [
   {
     id: 'lock1', // Define an id for your object
-    type: 'lock', //
-    label: 'Building Lock'
+    type: 'lock', // Needs to match the type you defined in the Muzzley website
+    label: 'Building Lock' // A name
   }
 ];
 
