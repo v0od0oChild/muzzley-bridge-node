@@ -22,7 +22,7 @@ Run `npm install muzzley-bridge-node`
 
 ### Usage
 
-```
+```js
 var muzzleyBridge = require('muzzley-bridge-node');
 
 // Define all the required account vars
