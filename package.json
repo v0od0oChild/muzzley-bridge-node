@@ -1,6 +1,6 @@
 {
   "name": "muzzley-bridge-node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Enables you to connect your own devices to the Muzzley IoT ecosystem",
   "main": "index.js",
   "scripts": {
